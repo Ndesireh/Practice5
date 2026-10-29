@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="municipalities_array">
+
+        <!-- 0: Beijing -->
+        <item>
+            Beijing is the capital of China and an important center for
+            politics, culture, international communication, science and
+            technology. It is both an ancient capital and a modern
+            international city. Historic landmarks include the Forbidden
+            City, the Temple of Heaven, the Summer Palace and sections
+            of the Great Wall. These places reflect different aspects
+            of imperial history, architecture and cultural traditions.
+            Alongside its historic buildings, Beijing supports scientific
+            research, technological innovation and cultural exchange.
+            Visitors can explore its museums and heritage sites to
+            understand how the city connects its long history with
+            modern development.
+        </item>
+
+        <!-- 1: Shanghai -->
+        <item>
+            Shanghai is a municipality directly under the central
+            government in eastern China. Located at the mouth of the
+            Yangtze River, it forms part of the Yangtze River Delta.
+            The city plays a major role in international finance,
+            trade and shipping. Its port connects regional industries
+            with global markets and handles large volumes of container
+            traffic. Shanghai is also an important center for scientific
+            research and technological innovation. The city continues
+            to develop its economy through international connections,
+            modern services and research activities. Its coastal location
+            helps explain its strong role in commerce and transportation.
+        </item>
+
+        <!-- 2: Chongqing -->
+        <item>
+            Chongqing is a municipality directly under the central
+            government in southwestern China. It lies along the upper
+            reaches of the Yangtze River, and its central urban area
+            is located where the Yangtze and Jialing rivers meet.
+            Mountains, hills, valleys and rivers give the region a
+            distinctive landscape. Its varied terrain has shaped the
+            arrangement of urban districts and surrounding settlements.
+            The municipality includes major urban areas as well as
+            agricultural and rural communities. River networks,
+            mountain scenery and karst landforms are important features
+            of the wider region, explaining its familiar identity as
+            a mountain city.
+        </item>
+
+        <!-- 3: Tianjin -->
+        <item>
+            Tianjin is a municipality directly under the central
+            government in northern China. It lies near Beijing and
+            faces the Bohai Sea, giving it an important position in
+            regional transportation and trade. Tianjin Port connects
+            northern inland areas with international shipping networks.
+            The city developed into a major center of modern industry,
+            commerce and education. Binhai New Area supports economic
+            development and opening to international business. Tianjin
+            also takes part in coordinated development with Beijing
+            and Hebei. Its coastal location and transport connections
+            make it an important gateway for northern China.
+        </item>
+
+    </string-array>
+</resources>
